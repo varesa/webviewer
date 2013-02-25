@@ -1,0 +1,6 @@
+[submodule "webtest-testsite"]
+	path = webtest-testsite
+	url = git@github.com:varesa/webviewer_testsite.git
+[submodule "webtest-qtapp"]
+	path = webtest-qtapp
+	url = git@github.com:varesa/webviewer_qtapp.git
